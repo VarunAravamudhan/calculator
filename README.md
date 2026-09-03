@@ -123,9 +123,6 @@ To design and develop a simple calculator using HTML, CSS, and JavaScript to per
 
 ![alt text](image-1.png)
 
-## RESULT
-
-Thus, a JavaScript-based calculator was successfully designed and developed to perform basic arithmetic operations using HTML, CSS, and JavaScript.
 
 ## RESULT
 
